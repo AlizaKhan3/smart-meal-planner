@@ -131,3 +131,4 @@ centred app column.
 - The `free`/`premium` plan is simulated on the user document (`subscriptionPlan`).
 # smart-meal-planner
 # smart-meal-planner
+# smart-meal-planner
