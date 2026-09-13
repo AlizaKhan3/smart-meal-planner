@@ -129,6 +129,3 @@ centred app column.
 - Rate limiting via `@nestjs/throttler` (100 req/min globally, 10/min on auth).
 - Validation via `class-validator` + a global `ValidationPipe`.
 - The `free`/`premium` plan is simulated on the user document (`subscriptionPlan`).
-# smart-meal-planner
-# smart-meal-planner
-# smart-meal-planner
