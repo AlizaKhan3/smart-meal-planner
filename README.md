@@ -130,3 +130,4 @@ centred app column.
 - Validation via `class-validator` + a global `ValidationPipe`.
 - The `free`/`premium` plan is simulated on the user document (`subscriptionPlan`).
 # smart-meal-planner
+# smart-meal-planner
